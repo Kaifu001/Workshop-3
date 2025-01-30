@@ -1,6 +1,6 @@
 Steps & Learning Process
 Setting Up the Project
-Created an Images folder and stored multiple images (e.g., image1.jpg, image2.jpg, etc.).
+Created an Images folder and stored multiple images
 Used preload() to load images before the sketch starts.
 Displaying Random Images
 Stored images in an array (imgs[]).
